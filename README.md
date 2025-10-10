@@ -1,4 +1,4 @@
-# Clash Girl | 10月4日19M/S|免费SSR节点/Singbox节点/Shadowrocket节点/Clash节点/V2ray节点订阅节点地址  更新时间 2025-10-04 09:54:41
+# Clash Girl | 10月10日19.6M/S|免费Clash节点/Singbox节点/V2ray节点/SSR节点/Shadowrocket节点订阅节点地址  更新时间 2025-10-10 09:35:30
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://clashgirl.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -9,23 +9,23 @@
 
 ### 免费Clash节点订阅链接
 
-- https://clashgirl.github.io/uploads/2025/10/0-20251004.yaml
-- https://clashgirl.github.io/uploads/2025/10/1-20251004.yaml
-- https://clashgirl.github.io/uploads/2025/10/2-20251004.yaml
-- https://clashgirl.github.io/uploads/2025/10/3-20251004.yaml
-- https://clashgirl.github.io/uploads/2025/10/4-20251004.yaml
+- https://clashgirl.github.io/uploads/2025/10/0-20251010.yaml
+- https://clashgirl.github.io/uploads/2025/10/1-20251010.yaml
+- https://clashgirl.github.io/uploads/2025/10/2-20251010.yaml
+- https://clashgirl.github.io/uploads/2025/10/3-20251010.yaml
+- https://clashgirl.github.io/uploads/2025/10/4-20251010.yaml
 
 ### 免费V2ray节点订阅链接
 
-- https://clashgirl.github.io/uploads/2025/10/0-20251004.txt
-- https://clashgirl.github.io/uploads/2025/10/1-20251004.txt
-- https://clashgirl.github.io/uploads/2025/10/2-20251004.txt
-- https://clashgirl.github.io/uploads/2025/10/3-20251004.txt
-- https://clashgirl.github.io/uploads/2025/10/4-20251004.txt
+- https://clashgirl.github.io/uploads/2025/10/0-20251010.txt
+- https://clashgirl.github.io/uploads/2025/10/1-20251010.txt
+- https://clashgirl.github.io/uploads/2025/10/2-20251010.txt
+- https://clashgirl.github.io/uploads/2025/10/3-20251010.txt
+- https://clashgirl.github.io/uploads/2025/10/4-20251010.txt
 
 ### 免费Sing-box节点订阅链接
 
-- https://clashgirl.github.io/uploads/2025/10/20251004.json
+- https://clashgirl.github.io/uploads/2025/10/20251010.json
 
 ## 更多Clash节点订阅 ：
 
